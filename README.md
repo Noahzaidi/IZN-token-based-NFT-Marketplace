@@ -9,7 +9,7 @@ IZANA TOKEN NFT Minting Marketplace , ready to deploy on Internet Computer Block
 
 ```
 dfx start --clean
-```s
+```
 
 2. Run NPM server
 
